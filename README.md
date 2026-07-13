@@ -1,30 +1,26 @@
-<h1 align="center">
-  Hi 👋 I'm Kataru Rahul Reddy
-</h1>
+<div align="center">
 
-<h3 align="center">
-Computer Science Undergraduate • AI/ML Enthusiast • Backend Developer
-</h3>
+# 👋 Hello, I'm Kataru Rahul Reddy
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=4F8EF7&center=true&vCenter=true&width=700&lines=Building+Intelligent+Software;AI+%7C+Machine+Learning;Backend+Development;Computer+Vision;Always+Learning+Something+New+🚀"/>
-</p>
+### AI • Machine Learning • Backend Engineering • Computer Vision
 
-<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Computer+Science+Undergraduate;AI+%26+Machine+Learning+Developer;Backend+Developer;Computer+Vision+Enthusiast;Building+Intelligent+Software+🚀"/>
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<br>
 
 <a href="YOUR_LINKEDIN">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:katarurahul1014@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-</p>
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
 
 ---
 
@@ -33,126 +29,154 @@ Computer Science Undergraduate • AI/ML Enthusiast • Backend Developer
 ```python
 class Rahul:
 
-    education = "B.E Computer Science @ NMIT Bangalore"
+    role = "Computer Science Undergraduate"
+
+    location = "Bangalore, India"
 
     interests = [
         "Artificial Intelligence",
         "Machine Learning",
+        "Backend Engineering",
         "Computer Vision",
-        "Backend Development",
-        "Software Engineering"
+        "Software Development"
     ]
 
     currently_learning = [
         "FastAPI",
         "System Design",
-        "DSA",
-        "Scalable Backend Systems"
+        "Advanced Python",
+        "DSA"
     ]
 
-    fun_fact = "I enjoy turning ideas into real-world software 🚀"
+    motto = "Learn • Build • Improve"
 ```
 
 ---
 
 # 🚀 Featured Projects
 
-### 🚗 AI-Based Dangerous Driving Behavior Detection
+## 🚗 AI-Based Dangerous Driving Behavior Detection
 
-> Intelligent dual-camera driver monitoring system using Computer Vision.
-
-**Tech**
-
-`Python` `YOLO` `OpenCV` `MediaPipe` `FastAPI`
-
----
-
-### 📄 AI Document Intelligence System
-
-> Semantic Search • LLM-based Question Answering • Document Analysis
+> Real-time dual-camera driver monitoring system using Computer Vision and AI.
 
 **Tech**
 
-`Python` `FastAPI` `NLP` `LLM` `MySQL`
+`Python` • `YOLO` • `OpenCV` • `MediaPipe` • `FastAPI`
 
 ---
 
-### ✅ Task Management API
+## 📄 AI Document Intelligence System
 
-> RESTful backend with secure CRUD operations and scalable architecture.
+> Intelligent document search, semantic analysis, LLM-powered question answering and summarization.
 
 **Tech**
 
-`Python` `FastAPI` `REST API` `MySQL`
+`Python` • `FastAPI` • `NLP` • `LLM` • `MySQL`
 
 ---
 
-# 💻 Tech Stack
+## ✅ Task Management API
+
+> RESTful backend with modular architecture and scalable API design.
+
+**Tech**
+
+`Python` • `FastAPI` • `REST APIs` • `MySQL`
+
+---
+
+# ⚙️ Tech Stack
 
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,c,mysql"/>
+
+<img src="https://skillicons.dev/icons?i=python"/>
+
+<img src="https://skillicons.dev/icons?i=java"/>
+
+<img src="https://skillicons.dev/icons?i=c"/>
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
 </p>
+
+---
+
+### AI & Machine Learning
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=opencv"/>
+
+<img src="https://img.shields.io/badge/YOLO-111111?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/MediaPipe-FF6F00?style=for-the-badge"/>
+
+<img src="https://skillicons.dev/icons?i=tensorflow"/>
+
+<img src="https://skillicons.dev/icons?i=python"/>
+
+</p>
+
+---
 
 ### Backend
 
 <p>
+
 <img src="https://skillicons.dev/icons?i=fastapi"/>
-</p>
 
-### AI / ML
+<img src="https://skillicons.dev/icons?i=mysql"/>
 
-<p>
-
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/YOLO-black?style=flat-square"/>
-
-<img src="https://img.shields.io/badge/MediaPipe-orange?style=flat-square"/>
-
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn"/>
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas"/>
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy"/>
+<img src="https://img.shields.io/badge/REST_API-0A66C2?style=for-the-badge"/>
 
 </p>
+
+---
 
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+
+<img src="https://skillicons.dev/icons?i=git"/>
+
+<img src="https://skillicons.dev/icons?i=github"/>
+
+<img src="https://skillicons.dev/icons?i=vscode"/>
+
 </p>
 
 ---
 
-# 🌱 Currently Exploring
+# 🌱 Currently Learning
 
+- 🚀 FastAPI
+- 🏗️ Backend System Design
 - 🤖 AI Applications
-- ⚡ FastAPI
-- 🧠 Computer Vision
-- 🏗️ Backend Architecture
+- 👁️ Computer Vision
 - 📚 Data Structures & Algorithms
 
 ---
 
-# 📫 Reach Me
+# 📫 Connect With Me
 
 📧 **katarurahul1014@gmail.com**
 
-📍 Bangalore, India
+📍 **Bangalore, India**
 
-💼 LinkedIn: **YOUR_LINKEDIN**
+💼 **LinkedIn**
+> YOUR_LINKEDIN
 
-🐙 GitHub: **https://github.com/YOUR_USERNAME**
+💻 **GitHub**
+> https://github.com/YOUR_USERNAME
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+## 🚀 "Turning Ideas into Intelligent Software."
 
-*"Code. Learn. Build. Repeat."*
+⭐ Thanks for visiting my profile!
 
 </div>
