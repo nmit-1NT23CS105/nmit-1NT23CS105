@@ -1,182 +1,177 @@
 <div align="center">
 
-# 👋 Hello, I'm Kataru Rahul Reddy
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Kataru%20Rahul%20Reddy&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+
+# 👋 Hi, I'm Rahul
 
 ### AI • Machine Learning • Backend Engineering • Computer Vision
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Computer+Science+Undergraduate;AI+%26+Machine+Learning+Developer;Backend+Developer;Computer+Vision+Enthusiast;Building+Intelligent+Software+🚀"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Backend+Developer;AI+%26+Machine+Learning;Computer+Vision+Enthusiast;Building+Real+World+Applications"/>
 
-<br>
+</div>
+
+---
+
+# 🚀 About Me
+
+```yaml
+Name: Kataru Rahul Reddy
+
+Location: Bangalore, India
+
+Education:
+  B.E Computer Science
+  Nitte Meenakshi Institute of Technology
+
+Interested In:
+  - Artificial Intelligence
+  - Machine Learning
+  - Backend Engineering
+  - Computer Vision
+  - Software Development
+
+Currently Learning:
+  - FastAPI
+  - System Design
+  - DSA
+  - Scalable Backend Development
+
+Fun Fact:
+  "I love solving real-world problems with software."
+```
+
+---
+
+# 💻 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,c,mysql"/>
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi"/>
+</p>
+
+### AI & Machine Learning
+
+<p>
+
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/YOLO-black?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/MediaPipe-orange?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/NLP-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="33%">
+
+### 🚗 Dangerous Driving Detection
+
+AI-powered dual-camera driver monitoring system.
+
+**Tech**
+
+Python • YOLO • OpenCV • MediaPipe • FastAPI
+
+</td>
+
+<td width="33%">
+
+### 📄 AI Document Intelligence
+
+Semantic Search
+
+Document Analysis
+
+LLM Question Answering
+
+FastAPI APIs
+
+</td>
+
+<td width="33%">
+
+### ✅ Task Management API
+
+RESTful Backend
+
+CRUD Operations
+
+MySQL
+
+FastAPI
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🌱 Currently Exploring
+
+```text
+✓ FastAPI
+
+✓ Backend System Design
+
+✓ AI Applications
+
+✓ Computer Vision
+
+✓ Data Structures & Algorithms
+```
+
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
 
 <a href="YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="mailto:katarurahul1014@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
 <a href="https://github.com/YOUR_USERNAME">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-</div>
-
----
-
-# 💫 About Me
-
-```python
-class Rahul:
-
-    role = "Computer Science Undergraduate"
-
-    location = "Bangalore, India"
-
-    interests = [
-        "Artificial Intelligence",
-        "Machine Learning",
-        "Backend Engineering",
-        "Computer Vision",
-        "Software Development"
-    ]
-
-    currently_learning = [
-        "FastAPI",
-        "System Design",
-        "Advanced Python",
-        "DSA"
-    ]
-
-    motto = "Learn • Build • Improve"
-```
-
----
-
-# 🚀 Featured Projects
-
-## 🚗 AI-Based Dangerous Driving Behavior Detection
-
-> Real-time dual-camera driver monitoring system using Computer Vision and AI.
-
-**Tech**
-
-`Python` • `YOLO` • `OpenCV` • `MediaPipe` • `FastAPI`
-
----
-
-## 📄 AI Document Intelligence System
-
-> Intelligent document search, semantic analysis, LLM-powered question answering and summarization.
-
-**Tech**
-
-`Python` • `FastAPI` • `NLP` • `LLM` • `MySQL`
-
----
-
-## ✅ Task Management API
-
-> RESTful backend with modular architecture and scalable API design.
-
-**Tech**
-
-`Python` • `FastAPI` • `REST APIs` • `MySQL`
-
----
-
-# ⚙️ Tech Stack
-
-### Languages
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=python"/>
-
-<img src="https://skillicons.dev/icons?i=java"/>
-
-<img src="https://skillicons.dev/icons?i=c"/>
-
-<img src="https://skillicons.dev/icons?i=mysql"/>
-
 </p>
-
----
-
-### AI & Machine Learning
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=opencv"/>
-
-<img src="https://img.shields.io/badge/YOLO-111111?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/MediaPipe-FF6F00?style=for-the-badge"/>
-
-<img src="https://skillicons.dev/icons?i=tensorflow"/>
-
-<img src="https://skillicons.dev/icons?i=python"/>
-
-</p>
-
----
-
-### Backend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=fastapi"/>
-
-<img src="https://skillicons.dev/icons?i=mysql"/>
-
-<img src="https://img.shields.io/badge/REST_API-0A66C2?style=for-the-badge"/>
-
-</p>
-
----
-
-### Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git"/>
-
-<img src="https://skillicons.dev/icons?i=github"/>
-
-<img src="https://skillicons.dev/icons?i=vscode"/>
-
-</p>
-
----
-
-# 🌱 Currently Learning
-
-- 🚀 FastAPI
-- 🏗️ Backend System Design
-- 🤖 AI Applications
-- 👁️ Computer Vision
-- 📚 Data Structures & Algorithms
-
----
-
-# 📫 Connect With Me
-
-📧 **katarurahul1014@gmail.com**
-
-📍 **Bangalore, India**
-
-💼 **LinkedIn**
-> YOUR_LINKEDIN
-
-💻 **GitHub**
-> https://github.com/YOUR_USERNAME
 
 ---
 
 <div align="center">
 
-## 🚀 "Turning Ideas into Intelligent Software."
+### 💡 *"Building intelligent software, one project at a time."*
 
-⭐ Thanks for visiting my profile!
+⭐ Thank you for visiting my profile!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=120&section=footer"/>
 
 </div>
