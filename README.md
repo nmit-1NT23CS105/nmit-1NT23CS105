@@ -1,44 +1,89 @@
-<div align="center">
+<h1 align="center">
+  Hi 👋 I'm Kataru Rahul Reddy
+</h1>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Kataru%20Rahul%20Reddy&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<h3 align="center">
+Computer Science Undergraduate • AI/ML Enthusiast • Backend Developer
+</h3>
 
-# 👋 Hi, I'm Rahul
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=4F8EF7&center=true&vCenter=true&width=700&lines=Building+Intelligent+Software;AI+%7C+Machine+Learning;Backend+Development;Computer+Vision;Always+Learning+Something+New+🚀"/>
+</p>
 
-### AI • Machine Learning • Backend Engineering • Computer Vision
+<p align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Backend+Developer;AI+%26+Machine+Learning;Computer+Vision+Enthusiast;Building+Real+World+Applications"/>
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-</div>
+<a href="YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:katarurahul1014@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
-# 🚀 About Me
+# 💫 About Me
 
-```yaml
-Name: Kataru Rahul Reddy
+```python
+class Rahul:
 
-Location: Bangalore, India
+    education = "B.E Computer Science @ NMIT Bangalore"
 
-Education:
-  B.E Computer Science
-  Nitte Meenakshi Institute of Technology
+    interests = [
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Computer Vision",
+        "Backend Development",
+        "Software Engineering"
+    ]
 
-Interested In:
-  - Artificial Intelligence
-  - Machine Learning
-  - Backend Engineering
-  - Computer Vision
-  - Software Development
+    currently_learning = [
+        "FastAPI",
+        "System Design",
+        "DSA",
+        "Scalable Backend Systems"
+    ]
 
-Currently Learning:
-  - FastAPI
-  - System Design
-  - DSA
-  - Scalable Backend Development
-
-Fun Fact:
-  "I love solving real-world problems with software."
+    fun_fact = "I enjoy turning ideas into real-world software 🚀"
 ```
+
+---
+
+# 🚀 Featured Projects
+
+### 🚗 AI-Based Dangerous Driving Behavior Detection
+
+> Intelligent dual-camera driver monitoring system using Computer Vision.
+
+**Tech**
+
+`Python` `YOLO` `OpenCV` `MediaPipe` `FastAPI`
+
+---
+
+### 📄 AI Document Intelligence System
+
+> Semantic Search • LLM-based Question Answering • Document Analysis
+
+**Tech**
+
+`Python` `FastAPI` `NLP` `LLM` `MySQL`
+
+---
+
+### ✅ Task Management API
+
+> RESTful backend with secure CRUD operations and scalable architecture.
+
+**Tech**
+
+`Python` `FastAPI` `REST API` `MySQL`
 
 ---
 
@@ -56,19 +101,21 @@ Fun Fact:
 <img src="https://skillicons.dev/icons?i=fastapi"/>
 </p>
 
-### AI & Machine Learning
+### AI / ML
 
 <p>
 
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/YOLO-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/YOLO-black?style=flat-square"/>
 
-<img src="https://img.shields.io/badge/MediaPipe-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MediaPipe-orange?style=flat-square"/>
 
-<img src="https://img.shields.io/badge/NLP-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn"/>
 
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy"/>
 
 </p>
 
@@ -80,98 +127,32 @@ Fun Fact:
 
 ---
 
-# 🚀 Featured Projects
-
-<table>
-<tr>
-
-<td width="33%">
-
-### 🚗 Dangerous Driving Detection
-
-AI-powered dual-camera driver monitoring system.
-
-**Tech**
-
-Python • YOLO • OpenCV • MediaPipe • FastAPI
-
-</td>
-
-<td width="33%">
-
-### 📄 AI Document Intelligence
-
-Semantic Search
-
-Document Analysis
-
-LLM Question Answering
-
-FastAPI APIs
-
-</td>
-
-<td width="33%">
-
-### ✅ Task Management API
-
-RESTful Backend
-
-CRUD Operations
-
-MySQL
-
-FastAPI
-
-</td>
-
-</tr>
-</table>
-
----
-
 # 🌱 Currently Exploring
 
-```text
-✓ FastAPI
-
-✓ Backend System Design
-
-✓ AI Applications
-
-✓ Computer Vision
-
-✓ Data Structures & Algorithms
-```
+- 🤖 AI Applications
+- ⚡ FastAPI
+- 🧠 Computer Vision
+- 🏗️ Backend Architecture
+- 📚 Data Structures & Algorithms
 
 ---
 
-# 🤝 Let's Connect
+# 📫 Reach Me
 
-<p align="center">
+📧 **katarurahul1014@gmail.com**
 
-<a href="YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
+📍 Bangalore, India
 
-<a href="mailto:katarurahul1014@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
+💼 LinkedIn: **YOUR_LINKEDIN**
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</p>
+🐙 GitHub: **https://github.com/YOUR_USERNAME**
 
 ---
 
 <div align="center">
 
-### 💡 *"Building intelligent software, one project at a time."*
+### ⭐ Thanks for visiting my profile!
 
-⭐ Thank you for visiting my profile!
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=120&section=footer"/>
+*"Code. Learn. Build. Repeat."*
 
 </div>
